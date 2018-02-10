@@ -50,8 +50,8 @@ Michael Frenzel
 
 ---?image=assets/images/berlin-english.png&size=contain
 
----
+@title[S+U English]
+
+---?image=assets/images/brokenlifts.png
 
 @title[BrokenLifts]
-
-![Image](assets/images/brokenlifts.png)
