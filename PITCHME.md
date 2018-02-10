@@ -238,3 +238,7 @@ Michael Frenzel
 ---?image=assets/images/wikidata-suedkreuz5.png&size=contain
 
 @title[Wikidata: Südkreuz]
+
+---?image=assets/images/junglebus1.png&size=contain
+
+@title[Jungle Bus]
