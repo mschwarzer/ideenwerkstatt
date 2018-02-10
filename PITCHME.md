@@ -131,6 +131,16 @@
 ---?image=assets/images/omm-editor1.png&size=contain
 
 ---
+
+### <span class="gold">Anwendungen / Bibliotheken</span>
+#### Desktop: AWT/Swing
+#### Mobile: Android
+#### Browser: GWT
+#### Export in Bildformate (Raster / Vektor)
+
+---?image=assets/images/omm-data.png&size=contain
+
+---
 <!-- Interaktive Anwendungen -->
 @title[Berliner Linien]
 
