@@ -27,7 +27,7 @@ Note:
 ### <span class="gold">OpenMetroMaps</span>
 
 #### Motivation
-#### Überblick, Stand
+#### Technischer Überblick
 #### Anwendungsmöglichkeiten / Ideen
 
 ---
@@ -70,7 +70,7 @@ Note:
 
 @title[Übersicht]
 
-### <span class="gold">OpenMetroMaps</span>
+### <span class="gold">Technischer Überblick</span>
 
 * Dateiformat
 * Anwendungen
