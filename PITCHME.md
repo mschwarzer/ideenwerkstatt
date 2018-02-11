@@ -17,6 +17,9 @@
 #### Sammeln von Ideen
 #### Diskussion
 
+Note:
+* Votrag ca. halbe Stunde
+* Übersicht, coole Ideen
 ---
 
 @title[OpenMetroMaps]
