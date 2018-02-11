@@ -132,7 +132,7 @@
 
 ---
 
-### <span class="gold">Anwendungen / Bibliotheken</span>
+### <span class="gold">Plattformen / Bibliotheken</span>
 #### Desktop: AWT/Swing
 #### Mobile: Android
 #### Browser: GWT
