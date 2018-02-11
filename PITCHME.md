@@ -256,3 +256,12 @@ Michael Frenzel
 ---?image=assets/images/db-ice.png&size=contain
 
 @title[DB: ICE-Netz]
+
+---
+@title[Zusammenfassung]
+
+### Zusammenfassung
+#### Interaktive Anwendungen
+#### Veränderte thematische Karten
+#### Datenpflege in OSM, Wikipedia, Wikidata
+#### Neue/bessere Karten erstellen
