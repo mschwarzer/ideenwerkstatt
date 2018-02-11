@@ -154,6 +154,14 @@ Note:
 
 ## <span class="gold">Anwendungsmöglichkeiten</span>
 
+---?image=assets/images/junglebus1.png&size=contain
+
+@title[Jungle Bus]
+
+---?image=assets/images/db-ice.png&size=contain
+
+@title[DB: ICE-Netz]
+
 ---
 <!-- Interaktive Anwendungen -->
 @title[Berliner Linien]
@@ -263,20 +271,12 @@ Michael Frenzel
 
 @title[Wikidata: Südkreuz]
 
----?image=assets/images/junglebus1.png&size=contain
-
-@title[Jungle Bus]
-
----?image=assets/images/db-ice.png&size=contain
-
-@title[DB: ICE-Netz]
-
 ---
 @title[Zusammenfassung]
 
 ### <span class="gold">Zusammenfassung</span>
 
+#### Neue/bessere Karten erstellen
 #### Interaktive Anwendungen
 #### Veränderte thematische Karten
 #### Datenpflege in OSM, Wikipedia, Wikidata
-#### Neue/bessere Karten erstellen
