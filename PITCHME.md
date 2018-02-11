@@ -164,20 +164,15 @@ Note:
 
 ---
 <!-- Interaktive Anwendungen -->
-@title[Berliner Linien]
-
-### Berliner Linien
-Michael Frenzel
-
-<http://daten.berlin.de/anwendungen/berliner-linien>
-<https://www.berliner-linien.de>
-
----
 
 @title[Berliner Linien]
 
 ![Image](assets/images/berliner_linien1.png)
 
+Note:
+* Michael Frenzel
+* <http://daten.berlin.de/anwendungen/berliner-linien>
+* <https://www.berliner-linien.de>
 ---
 
 @title[Berliner Linien]
