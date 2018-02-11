@@ -216,12 +216,18 @@ Note:
 
 @title[Mietpreise]
 
+Note:
+* Lebendige Projekte, nicht einmalig
+* Konfigurierbar durch Nutzer
 <!-- Wikipedia -->
 
 ---?image=assets/images/wikipedia-suedkreuz1.png&size=contain
 
 @title[Wikipedia: Südkreuz]
 
+Note:
+* Datenpflege
+* OSM, aber auch Wikpedia, Wikidata
 ---?image=assets/images/wikipedia-suedkreuz2.png&size=contain
 
 @title[Wikipedia: Südkreuz]
