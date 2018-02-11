@@ -260,7 +260,8 @@ Michael Frenzel
 ---
 @title[Zusammenfassung]
 
-### Zusammenfassung
+### <span class="gold">Zusammenfassung</span>
+
 #### Interaktive Anwendungen
 #### Veränderte thematische Karten
 #### Datenpflege in OSM, Wikipedia, Wikidata
