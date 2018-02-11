@@ -68,14 +68,16 @@ Note:
 ---
 <!-- OMM -->
 
-@title[Übersicht]
+## <span class="gold">Technischer Überblick</span>
 
-### <span class="gold">Technischer Überblick</span>
+---
+
+@title[Übersicht]
 
 * Dateiformat
 * Anwendungen
-* Software-Bibliotheken
 * Daten für Städte / Regionen
+* Software-Bibliotheken
 
 Note:
 * Überblick, Stand
@@ -138,6 +140,8 @@ Note:
 
 ---?image=assets/images/omm-editor1.png&size=contain
 
+---?image=assets/images/omm-data.png&size=contain
+
 ---
 
 ### <span class="gold">Plattformen / Bibliotheken</span>
@@ -145,8 +149,6 @@ Note:
 #### Mobile: Android
 #### Browser: GWT
 #### Export in Bildformate (Raster / Vektor)
-
----?image=assets/images/omm-data.png&size=contain
 
 ---
 
