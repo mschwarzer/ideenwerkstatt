@@ -29,7 +29,7 @@ Note:
 #### Motivation
 #### Überblick
 #### Stand
-#### Ausblick
+#### Anwendungsmöglichkeiten / Ideen
 
 ---
 <!-- Karten der Verkehrsbetriebe -->
