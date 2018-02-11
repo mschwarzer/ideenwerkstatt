@@ -27,9 +27,12 @@ Note:
 ### <span class="gold">OpenMetroMaps</span>
 
 #### Motivation
-#### Überblick
-#### Stand
+#### Überblick, Stand
 #### Anwendungsmöglichkeiten / Ideen
+
+---
+
+## <span class="gold">Motivation</span>
 
 ---
 <!-- Karten der Verkehrsbetriebe -->
@@ -74,6 +77,8 @@ Note:
 * Software-Bibliotheken
 * Daten für Städte / Regionen
 
+Note:
+* Überblick, Stand
 ---
 
 ```xml
@@ -142,6 +147,10 @@ Note:
 #### Export in Bildformate (Raster / Vektor)
 
 ---?image=assets/images/omm-data.png&size=contain
+
+---
+
+## <span class="gold">Anwendungsmöglichkeiten</span>
 
 ---
 <!-- Interaktive Anwendungen -->
