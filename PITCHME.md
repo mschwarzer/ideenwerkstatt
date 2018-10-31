@@ -8,25 +8,12 @@
 
 ---
 
-@title[Ablauf]
-
-### <span class="gold">Ablauf</span>
-
-#### Impulsvortrag
-#### Vorstellungsrunde
-#### Sammeln von Ideen
-#### Diskussion
-
-Note:
-* Votrag ca. halbe Stunde
-* Übersicht, coole Ideen
----
-
 @title[OpenMetroMaps]
 
 ### <span class="gold">OpenMetroMaps</span>
 
 #### Motivation
+#### Projektgeschichte
 #### Technischer Überblick
 #### Anwendungsmöglichkeiten / Ideen
 
@@ -64,6 +51,16 @@ Note:
 @title[ÖPNV-Karte]
 
 ![Image](assets/images/oepnv-karte.png)
+
+---
+
+## <span class="gold">Projektgeschichte</span>
+
+@title[Projektgeschichte]
+
+* 2017/09 - 2018/02: Prototype Fund
+* 2018/09 - 2019/02: BSS
+* 2019: EXIST
 
 ---
 <!-- OMM -->
