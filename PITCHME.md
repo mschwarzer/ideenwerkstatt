@@ -16,6 +16,7 @@
 #### Projektgeschichte
 #### Technischer Überblick
 #### Anwendungsmöglichkeiten / Ideen
+#### Gründungsidee
 
 ---
 
@@ -287,3 +288,12 @@ Note:
 #### Interaktive Anwendungen
 #### Veränderte thematische Karten
 #### Datenpflege in OSM, Wikipedia, Wikidata
+
+---
+@title[Gründungsidee]
+
+### <span class="gold">Gründungsidee</span>
+
+#### Anwendungen für Verkehrsbetriebe
+#### Karten für Geschäfte / Filialfinder
+#### Stadtportale
