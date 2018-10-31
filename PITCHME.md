@@ -206,7 +206,7 @@ Note:
 
 @title[S+U Englisch]
 
----?image=http://www.wimdu.de/blog/wp-content/uploads/2015/12/BerlinClubs-UBahn-map-DE-2.jpg&size=contain
+---?image=assets/images/mitvergnuegen-clubs.jpg&size=contain
 
 @title[Clubs]
 
