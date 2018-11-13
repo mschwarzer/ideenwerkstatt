@@ -298,6 +298,10 @@ Note:
 #### Karten für Geschäfte / Filialfinder
 #### Stadtportale
 
-@title[Beispiel]
+@title[Beispiel: LPG]
+
+---?image=assets/images/lpg-google-maps.png&size=contain
+
+@title[Beispiel: LPG]
 
 ---?image=assets/images/lpg.png&size=contain
