@@ -4,7 +4,7 @@
 
 #### Freie schematische Karten für den ÖPNV
 
-### 31.10.2018
+### 13.11.2018
 
 ---
 
