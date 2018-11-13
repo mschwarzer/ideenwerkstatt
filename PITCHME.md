@@ -297,3 +297,7 @@ Note:
 #### Anwendungen für Verkehrsbetriebe
 #### Karten für Geschäfte / Filialfinder
 #### Stadtportale
+
+@title[Beispiel]
+
+---?image=assets/images/lpg.png&size=contain
