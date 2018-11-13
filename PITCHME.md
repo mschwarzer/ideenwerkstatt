@@ -300,6 +300,10 @@ Note:
 
 @title[Beispiel: LPG]
 
+---?image=assets/images/lpg-homepage.png&size=contain
+
+@title[Beispiel: LPG]
+
 ---?image=assets/images/lpg-google-maps.png&size=contain
 
 @title[Beispiel: LPG]
